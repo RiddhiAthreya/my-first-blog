@@ -1,3 +1,5 @@
+
+#When a url is typed in, the request is routed to this page first
 from django.urls import path
 from . import views
 
